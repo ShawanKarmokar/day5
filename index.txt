@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Hello Shawan 
-this is my first push
-1234
-=======
-Hello git
->>>>>>> ce0235c (1st git upload)
